@@ -1,0 +1,13 @@
+Climate Data Legend: 
+
+T	Average Annual Temperature
+TM	Average Annual Maximum Temperature
+Tm	Average Annual Minimum Temperature
+PP	Total Annual Precipitation
+V	Annual Average Wind Speed
+RA	Number of Days with Rain
+SN	Number of Days with Snow
+TS	Number of Days with Storm
+FG	Number of Foggy Days
+TN	Number of Days with Tornado
+GR	Number of Days with Hail
